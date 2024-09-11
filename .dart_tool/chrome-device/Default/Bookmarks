@@ -1,0 +1,101 @@
+{
+   "checksum": "295654cdcbe409b5187e315d25665df4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13357997370502440",
+            "date_last_used": "0",
+            "guid": "6c32be78-bd5a-41b2-a8a8-28cdd55f1bec",
+            "id": "8",
+            "name": "GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13370332228835841",
+            "date_last_used": "0",
+            "guid": "a9282a8f-e89f-46b1-9ea5-e8acfbb1e288",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "a",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/search?q=Download+Sdk&form=ANNTH1&refig=426acfea9e854f0aa1a9920165404f59&pc=U531",
+            "visit_count": 1
+         }, {
+            "date_added": "13370332235816515",
+            "date_last_used": "0",
+            "guid": "5102953d-c270-4e01-bf1e-e3de64bcbc95",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ar",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/search?q=chocolatey+install&qs=SSE&sk=HS10SSE3&sc=20-0&cvid=F1D132FEE091451E9A00DD4F1653FB7F&FORM=QBRE&sp=14&lq=0",
+            "visit_count": 1
+         }, {
+            "date_added": "13353460094379846",
+            "date_last_used": "0",
+            "guid": "8c0d4530-3798-4253-bec0-f117e336a963",
+            "id": "11",
+            "name": "Яндекс Маркет",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://market.yandex.ru/?from=dist_bookmarks&win=635&clid=2413749-510",
+            "visit_count": 0
+         }, {
+            "date_added": "13353460094393102",
+            "date_last_used": "0",
+            "guid": "114f492b-7404-4ac4-8ba3-da23cd3e5e62",
+            "id": "12",
+            "name": "Яндекс",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://www.ya.ru/?win=635&clid=2413746-510&from=dist_bookmark",
+            "visit_count": 0
+         } ],
+         "date_added": "13370431512237513",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель избранного",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13370431512237515",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другое избранное",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13370431512237517",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Избранное на мобильных устройствах",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCBtVIduRAQAAKg4QABgBIAAoBTAAOABAABIAKhhYMm1kM0JFaWxyUnB6c3BkZVNOdE53PT1IA6AGDBKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQxN2QxMDllMi0zNzFlLTUyYjgtYmZlNi01MzI1OWZiZDI5ZWEYACAAKAAwmviEx4AxOJz9hMeAMUCc/YTHgDFKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGI4MzI4ZjUwLTdjNjUtNTZlMC05ZTk3LTU4NzAyMjNjM2I1OBgAIAAoADCU+ITHgDE4iPyEx4AxQIj8hMeAMUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZTk3ODFmZDgtOTMwYy01YTcyLTg2OWUtZDdkOWRiOTBkYTM2GAAgACgAMJX4hMeAMTih/ITHgDFAofyEx4AxShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKoAQgKEqMBChxCTXdqSFNNYk5DNk5CRDFIZ29EWkFUWmEwbGs9EiQ1MTAyOTUzZC1jMjcwLTRlMDEtYmYxZS1lM2RlNjRiY2JjOTUYACACKAIwzenv2J0yOOy1w6mdMkCww+/YnTJKHHBweWNOQmFpT2NNM0VWWDBKRzdCaUlwVmc3UT1aHyIdsEliK3BoZ1BJamdGdnFDVUM2RHBoRGMzMmc1OD1lsUSJCBKnAQgJEqIBChx4YjVNOWF1WkdtR20yMzZBdEhMd3JlYTRIaWc9EiRhOTI4MmE4Zi1lODlmLTQ2YjEtOWVhNS1lOGFjZmJiMWUyODgYACACKAIwzunv2J0yOOv0wqmdMkCww+/YnTJKHHJPWVY4K3BDZjBReGNZeEdpd2MwTStPTWtPOD1aHiIcYXVuR0w1SU95ekIwa0VtYzVGdE8xeGQvTlZRPWWxRIkIEqcBCAgSogEKHGhVMUduSW0wWjU4ZjFxa1lqbFYyZG5OMDBPMD0SJDZjMzJiZTc4LWJkNWEtNDFiMi1hOGE4LTI4Y2RkNTVmMWJlYxgAIAIoAjDP6e/YnTI4jILor+8xQLDD79idMkocSlE0UEtVNGtoNmNWTFpMSFBTWklyRlAzWXRnPVoeIhwzU1NUajRpVGFpU2ZGL0hqOVljL2JvaytiZWc9ZcjzP7sSqAEICxKjAQocUFVBbTNCVFR1MmNhUmoxQmdoZ25hZGw3UVRnPRIkOGMwZDQ1MzAtMzc5OC00MjUzLWJlYzAtZjExN2UzMzZhOTYzGAAgACgAMLrO29idMjj+0NvYnTJA/tDb2J0yShxJZmlaTEsxay9pQ2lCa29vQk5sMzNWbkdLdEE9Wh8iHdg1dkdMcUpsZ1IwYkJDakVTc2tEN052UzgySGs9ZQAAAAASqAEIDBKjAQocWXh4Tm1kQTUwVlc1OE5USVRMdG13N2FhZDM4PRIkMTE0ZjQ5MmItNzQwNC00YWM0LThiYTMtZGEyM2NkM2U1ZTYyGAAgACgAMLvO29idMjia0dvYnTJAmtHb2J0yShx4NFNLd0RmNWJkMWFkUEVUVmxwaUVteXVKSjA9Wh8iHexFRzVJTXlzbjhhZWpjMjJyYjhBT01vMTR0QTQ9ZQAAAAAwADgA",
+   "version": 1
+}
